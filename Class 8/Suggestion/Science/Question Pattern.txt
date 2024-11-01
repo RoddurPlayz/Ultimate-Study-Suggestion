@@ -1,0 +1,25 @@
+--- Science QUESTION PATTERN ---
+
+Items
+|-Multiple Choice Questions
+|--Count: 15 out of 15
+|---Marks: 1 x Count    = 1 x 15    = 15
+|
+|-One Word Question
+|--Count: 10 out of 10
+|--Marks: 1 x Count     = 1 x 10    = 10
+|
+|-Short Question
+|--Count: 10 out of 10
+|---Marks: 2 x Count    = 2 x 10    = 20
+|
+|-Essay Type Question: Without Stem
+|--Count: 3 out 5
+|---Marks: 5 x Count    = 5 x 3     = 15
+|
+|-Essay Type Question: With Stem
+|--Count: 5 out of 7
+|---Marks: 8 x Count    = 8 x 5     = 40
+|--------------------------------------------
+|-TOTAL                             = 100
+|-TIME                              = 3 Hours

@@ -1,0 +1,25 @@
+--- ISLAM RELIGION QUESTION PATTERN ---
+
+Items
+|-Multiple Choice Questions
+|-|-Count: 15 out of 15
+|-|-|-Marks: 1 x Count     = 1 x 15     = 15
+|
+|-One Word Question
+|-|-Count: 10 out of 15
+|-|-|-Marks: 1 x Count     = 1 x 10     = 10
+|
+|-Short Question
+|-|-Count: 5 out of 5
+|-|-|-Marks: 5 x Count     = 5 x 5      = 25
+|
+|-Essay Type Question: Without Stem
+|-|-Count: 3 out 5
+|-|-|-Marks: 5 x Count      = 5 x 3     = 15
+|
+|-Essay Type Question: Without Stem and With Stem
+|-|-Count: 5 out of 8
+|-|-|-Marks: 120 x Count    = 10 x 5    = 50
+|------------------------------------------------
+|-TOTAL                                 = 100
+|-TIME                                  = 3 Hours

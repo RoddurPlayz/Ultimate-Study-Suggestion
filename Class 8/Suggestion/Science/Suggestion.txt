@@ -1,0 +1,27 @@
+--- SCIENCE SUGGESTION ---
+
+Chapter(Exercise Book)
+|-1: In Search of Migratory Birds
+|-|-Investigative Book
+|-|-|-7 : 7.1 ^GK 7.6.3
+|-|-|-11: 11.1-11.6
+|-|-|-12: 12.1-12.4
+|
+|-2: Green Friends
+|-|-Investigative Book
+|-|-|-4 : 4.1-4.3
+|-|-|-5 : 5.1-5.4
+|
+|-3: Field Trip
+|-|-Investigative Book:
+|-|-|-1 : 1.1-1.4.5
+|-|-|-2 : 2.1-2.5
+|
+|-4: Our Laboratory
+|-|-Investigative Book
+|-|-|-3 : 3.1-3.4.1
+|-|-|-8 : 8.1-8.5
+|
+|-5: Genealogy of the Living World
+|-|-Investigative Book
+|-|-|-4 : 4.1-4.3
